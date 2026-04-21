@@ -11,6 +11,12 @@ notebookLM:https://notebooklm.google.com/notebook/05a1b6b3-fbf8-4b4e-b2ec-efd076
 # 💧 Smart Hydration System
 個人化智慧飲水系統（IoT + Health Data + Weather Integration）
 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c70a1d34-213b-4e1a-a089-246989bf9352" />
+
+
+
+
 ---
 
 ## 📌 Overview
