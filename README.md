@@ -1,3 +1,7 @@
+task.md在openspec->changes->integrate-old-github->specs/integrate-old-github中
+
+
+
 # 💧 Smart Hydration System
 個人化智慧飲水系統（IoT + Health Data + Weather Integration）
 
